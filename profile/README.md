@@ -1,5 +1,7 @@
 > Projeto integrador da Fatec ZL
 
+Versão com CRUD de usuários, autenticação, permissão e tarefas
+
 # Deploy:
 Frontend https://piardigans.vercel.app/
 
